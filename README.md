@@ -1,34 +1,51 @@
-The Game of Ignorance
-Requirements
+# 🎮 The Game of Ignorance  
 
-Before running the game, make sure you have:
+Welcome to **The Game of Ignorance** — a fun and challenging project made with Python and SQL.  
 
-A local database named ignorancia created from the SQL file located at:
+---
 
-Data/SQL/ignorance.sql
+## 📂 Database Setup  
+Before running the game, you must set up the database:  
 
+- Import the SQL file located at:  
+  ```bash
+  Data/SQL/ignorance.sql
+The database name must be:
 
-The following Python libraries installed:
+ignorancia
+🛠️ Importing the Database (MySQL / MariaDB)
+Run the following command in your terminal (replace root with your MySQL username if different):
 
-pygame
+mysql -u root -p ignorancia < Data/SQL/ignorance.sql
+⚙️ Requirements
+Make sure you have Python installed and the following libraries:
 
-tkinter
+pygame 🎵
 
-random
+tkinter 🖼️
 
-messagebox
+random 🎲
 
-Installation
+messagebox 📢
 
-You can install the required libraries using pip:
+📦 Installation
+Install the required libraries with pip:
 
 pip install pygame
+
 pip install tkinter
+
 pip install random
+
 pip install messagebox
 
-How to Play
+🕹️ How to Play
+Set up the database.
 
-Once the database and dependencies are set up, you can run and enjoy The Game of Ignorance.
+Install all dependencies.
 
-🔎 Recommended resolution: 1366 x 768 for the best experience.
+Run the game script.
+
+Enjoy The Game of Ignorance 🎉
+
+💡 Recommended resolution: 1366 x 768 for the best experience
