@@ -1,10 +1,10 @@
-# 🎮 The Game of Ignorance  
+#  The Game of Ignorance  
 
 Welcome to **The Game of Ignorance** — a fun and challenging project made with Python and SQL.  
 
 ---
 
-## 📂 Database Setup  
+##  Database Setup  
 Before running the game, you must set up the database:  
 
 - Import the SQL file located at:  
@@ -28,7 +28,7 @@ random 🎲
 
 messagebox 📢
 
-📦 Installation
+ Installation
 Install the required libraries with pip:
 
 pip install pygame
@@ -39,13 +39,13 @@ pip install random
 
 pip install messagebox
 
-🕹️ How to Play
+ How to Play
 Set up the database.
 
 Install all dependencies.
 
 Run the game script.
 
-Enjoy The Game of Ignorance 🎉
+Enjoy The Game of Ignorance 
 
-💡 Recommended resolution: 1366 x 768 for the best experience
+ Recommended resolution: 1366 x 768 for the best experience
